@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Welcome to Afzal's 3D Artist Portfolio!");
+    console.log("Welcome To Abdul Tanzil 3D Artist Portfolio!");
 });
